@@ -5,8 +5,6 @@
 [![vr scripts](https://badges.velociraptor.run/flat.svg)](https://velociraptor.run)
 [![LICENSE](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
 
-my deno template
-
 ## Setup
 
 Need to install [Velociraptor](https://velociraptor.run/).
