@@ -1,4 +1,4 @@
-# deno-dev-template
+# deno-boilerplate
 
 [![ci](https://github.com/kawarimidoll/deno-dev-template/workflows/ci/badge.svg)](.github/workflows/ci.yml)
 [![deno.land](https://img.shields.io/badge/deno-%5E1.16.0-green?logo=deno)](https://deno.land)
